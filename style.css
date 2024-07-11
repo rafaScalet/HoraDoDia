@@ -1,0 +1,16 @@
+body{
+    background-color: royalblue;
+    font: normal 16pt "JetBrains Mono";
+    color: aliceblue;
+    text-align: center;
+}
+
+section{
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 15px;
+    width: 300px;
+    margin: auto;
+    color:black;
+    margin-bottom: 12px;
+}
