@@ -1,6 +1,11 @@
+@font-face{
+    font-family: 'JetBrains';
+    src: url('assets/JetBrainsMono-Regular.ttf') format('truetype')
+}
+
 body{
     background-color: royalblue;
-    font: normal 16pt "JetBrains Mono";
+    font: normal 16pt "JetBrains";
     color: aliceblue;
     text-align: center;
 }
